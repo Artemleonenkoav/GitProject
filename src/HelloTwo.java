@@ -7,10 +7,22 @@ public class HelloTwo {
 
         System.out.println(LocalDate.now());
         System.out.println("hello");
+//
+//        int a;
+//        int a;
+//        int a;
+//        int b;
+//        int b;
+//        int b;
+//        int b;
+//        int b;
 
-        int a;
-        int a;
-        int a;
-        int a;
+//        int a;
+//        int a;
+//        int a;
+//        int a;
+        for (int i = 0; i < 10; i++) {
+            System.out.println("Artur" + i);
+        }
     }
 }
