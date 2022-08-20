@@ -6,5 +6,6 @@ public class HelloTwo {
         System.out.println("44444");
 
         System.out.println(LocalDate.now());
+        System.out.println("hello");
     }
 }
